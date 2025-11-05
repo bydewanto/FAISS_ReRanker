@@ -1,0 +1,10 @@
+pandas
+numpy
+faiss-cpu
+sentence-transformers
+transformers
+accelerate
+bitsandbytes
+scikit-learn
+torch
+huggingface-hub
